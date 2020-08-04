@@ -1,5 +1,6 @@
 package com.gavilan.statemachinedemo.dominio;
 
 public enum ProductoEvent {
-    ACTUALIZAR_STOCK
+    DISMINUIR_STOCK,
+    AUMENTAR_STOCK
 }
