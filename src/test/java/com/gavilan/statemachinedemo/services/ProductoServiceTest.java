@@ -27,7 +27,7 @@ class ProductoServiceTest {
 
     @BeforeEach
     void setUp() {
-        producto = Producto.builder().nombre("Alfajor").precio(20.0).cantidad(200).build();
+        producto = Producto.builder().nombre("Alfajor").precio(20.0).cantidad(150).build();
     }
 
     @Transactional
