@@ -1,10 +1,9 @@
 # Spring State Machine Test
 
-Probando la máquina de estados de Spring 
-manejando los estados de un producto
+Éste repositorio es una prueba de la máquina de estados de Spring manejando los distintos estados de un producto.
 
 ## Estados
 
-EN_STOCK
-STOCK_MINIMO
-SIN_STOCK
+EN_STOCK 
+STOCK_MINIMO 
+SIN_STOCK 
